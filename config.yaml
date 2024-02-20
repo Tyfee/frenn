@@ -1,0 +1,5 @@
+port: 4567 # from what port can you access your server;
+expose: TRUE # whether or not your server is exposed to your network; 
+language: "en" # what language will your web browser and your CLI be displayed; *available languages: en, pt-br, fr, jp *note that it won't change the media title or description. 
+blacklist_ips: []
+auth_required: FALSE 
